@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{395E9441-1BEA-4A0F-A8CF-ABCD92A56040}|Identity">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/IdentityContext.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="41" Column="1" />
+      <File FileName="services/MongoService.cs" Line="10" Column="57" />
+      <File FileName="Data/IdentityContext.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Identity" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Identity PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
