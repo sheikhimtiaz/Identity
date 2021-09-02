@@ -1,0 +1,2 @@
+2021-03-14 00:50:22.876 +06:00 [INF] Ah, there you are!
+2021-03-14 00:50:24.185 +06:00 [INF] Processed {"Latitude":25,"Longitude":134} in 034 ms.

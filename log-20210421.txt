@@ -1,0 +1,6 @@
+2021-04-21 19:42:22.936 +06:00 [INF] Ah, there you are!
+2021-04-21 19:42:23.587 +06:00 [INF] Processed {"Latitude":25,"Longitude":134} in 34 ms. 
+ [{"_id":"4","name":"Boil an egg","firstname":null,"lastname":null,"age":null,"email":null,"phone":null,"mobile":null,"website":"Boil","twitter":"kettle a pen","$type":"User"}]
+2021-04-21 19:42:29.411 +06:00 [INF] Ah, there you are!
+2021-04-21 19:42:29.421 +06:00 [INF] Processed {"Latitude":25,"Longitude":134} in 34 ms. 
+ [{"_id":"4","name":"Boil an egg","firstname":null,"lastname":null,"age":null,"email":null,"phone":null,"mobile":null,"website":"Boil","twitter":"kettle a pen","$type":"User"}]

@@ -1,15 +1,23 @@
-﻿<Properties StartupConfiguration="{395E9441-1BEA-4A0F-A8CF-ABCD92A56040}|Identity">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Data/IdentityContext.cs">
+﻿<Properties StartupConfiguration="{395E9441-1BEA-4A0F-A8CF-ABCD92A56040}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument=".gitignore">
     <Files>
       <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="Startup.cs" Line="41" Column="1" />
-      <File FileName="services/MongoService.cs" Line="10" Column="57" />
-      <File FileName="Data/IdentityContext.cs" Line="11" Column="10" />
+      <File FileName="Startup.cs" />
+      <File FileName="services/MongoService.cs" />
+      <File FileName="Data/IdentityContext.cs" />
+      <File FileName="Controllers/CommandsController.cs" Line="17" Column="38" />
+      <File FileName=".gitignore" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Identity" expanded="True" />
+          <Node name="Identity" expanded="True">
+            <Node name="Identity" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name=".gitignore" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

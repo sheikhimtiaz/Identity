@@ -58,7 +58,6 @@ E:/Workstation/Identity/obj/Debug/netcoreapp3.1/Identity.csproj.CopyComplete
 /Users/sheikhimtiaz/workstation/Identity/obj/Debug/netcoreapp3.1/Identity.MvcApplicationPartsAssemblyInfo.cache
 /Users/sheikhimtiaz/workstation/Identity/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/sheikhimtiaz/workstation/Identity/bin/Debug/netcoreapp3.1/appsettings.json
-/Users/sheikhimtiaz/workstation/Identity/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /Users/sheikhimtiaz/workstation/Identity/bin/Debug/netcoreapp3.1/Identity.deps.json
 /Users/sheikhimtiaz/workstation/Identity/bin/Debug/netcoreapp3.1/Identity.runtimeconfig.json
 /Users/sheikhimtiaz/workstation/Identity/bin/Debug/netcoreapp3.1/Identity.runtimeconfig.dev.json
@@ -118,3 +117,8 @@ E:/Workstation/Identity/obj/Debug/netcoreapp3.1/Identity.csproj.CopyComplete
 /Users/sheikhimtiaz/workstation/Identity/obj/Debug/netcoreapp3.1/Identity.dll
 /Users/sheikhimtiaz/workstation/Identity/obj/Debug/netcoreapp3.1/Identity.pdb
 /Users/sheikhimtiaz/workstation/Identity/obj/Debug/netcoreapp3.1/Identity.genruntimeconfig.cache
+/Users/sheikhimtiaz/workstation/Identity/bin/Debug/netcoreapp3.1/Serilog.dll
+/Users/sheikhimtiaz/workstation/Identity/bin/Debug/netcoreapp3.1/Serilog.Sinks.Console.dll
+/Users/sheikhimtiaz/workstation/Identity/bin/Debug/netcoreapp3.1/Serilog.Sinks.File.dll
+/Users/sheikhimtiaz/workstation/Identity/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.0.json
+/Users/sheikhimtiaz/workstation/Identity/obj/Debug/netcoreapp3.1/scopedcss/bundle/Identity.styles.css
